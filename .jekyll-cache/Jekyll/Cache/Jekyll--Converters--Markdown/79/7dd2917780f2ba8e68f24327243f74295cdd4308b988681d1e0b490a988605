@@ -1,0 +1,162 @@
+I"¼<!-- https://elipapa.github.io/mycv/extended -->
+
+<h1 id="lucas-ferreira">Lucas Ferreira</h1>
+<p>Quality Assurance Engineer</p>
+
+<div id="webaddress">
+E-mail: <a href="lucasferreira@outlook.com.br">lucasferreira@outlook.com.br</a>
+| LinkedIn <a href="https://www.linkedin.com/in/lflucasferreira/">@lflucasferreira</a>
+</div>
+
+<h3 id="experienced-in">Experienced in</h3>
+
+<p>Automated Testing, financial and educational projects</p>
+
+<!-- ## Currently
+
+Standing on the shoulders of giants -->
+
+<h3 id="specialized-in">Specialized in</h3>
+
+<p>Banks, Financial Markets and Educational.</p>
+
+<h3 id="languages">Languages</h3>
+
+<p>English, Portuguese.</p>
+
+<h2 id="professional-experience">Professional Experience</h2>
+
+<h3 id="mid-level">Mid Level</h3>
+
+<p><code class="language-plaintext highlighter-rouge">2020 - Now</code>
+<strong>QA Engineer, <a href="https://www.ciandt.com">CI&amp;T</a></strong> [Brazil]</p>
+<ul>
+  <li>Since October 2020.</li>
+</ul>
+
+<h3 id="junior-level">Junior Level</h3>
+
+<p><code class="language-plaintext highlighter-rouge">2019 - 2020</code>
+<strong>Junior QA Engineer, <a href="https://www.stefanini.com">Stefanini</a></strong> [Brazil]</p>
+<ul>
+  <li>From May 2019 to September 2020.</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2017 - 2019</code>
+<strong>Junior Test Analyst, <a href="https://www.qualinfo.com.br">Qualinfo</a></strong> [Brazil]</p>
+<ul>
+  <li>From September 2017 to April 2019.</li>
+</ul>
+
+<h3 id="internships">Internships</h3>
+
+<p><code class="language-plaintext highlighter-rouge">2016 - 2017</code>
+<strong>Intern Test Analyst, <a href="https://www.qualinfo.com.br">Qualinfo</a></strong> [Brazil]</p>
+<ul>
+  <li>From June 2016 to August 2017.</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2015 - 2016</code>
+<strong>Intern Support Analyst, <a href="https://www.qualinfo.com.br">Qualinfo</a></strong> [Brazil]</p>
+<ul>
+  <li>From September 2015 to May 2016.</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2014 - 2014</code>
+<strong>Intern Test Analyst, <a href="https://www.solutioninc.com">SolutionInc</a></strong> [Canada]</p>
+<ul>
+  <li>From May 2014 to September 2014.</li>
+</ul>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Sep 2013 - Dec 2014</code>
+<strong>Dalhousie University, Canada.</strong></p>
+<ul>
+  <li>Computer Science</li>
+  <li>From September 2013 to December 2014.</li>
+  <li>Science without Borders program.</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2011 - 2021</code>
+<strong>UFRPE, Brazil</strong></p>
+<ul>
+  <li>Information Systems</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Jul 2008 - Dec 2010</code>
+<strong>SENAI-PE, Brazil</strong></p>
+<ul>
+  <li>Computer Technician [CISCO]</li>
+</ul>
+
+<h2 id="technologies">Technologies</h2>
+
+<p><strong>Programming Languages:</strong></p>
+<ul>
+  <li>Ruby, JavaScript, Python.</li>
+</ul>
+
+<p><strong>Testing Frameworks</strong></p>
+<ul>
+  <li>Capybara, RSPec, Cucumber (Gherkin), Cypress.</li>
+</ul>
+
+<p><strong>API Testing</strong></p>
+<ul>
+  <li>Postman, Newman, HTTParty, HTTPie.</li>
+</ul>
+
+<p><strong>DevOps:</strong></p>
+<ul>
+  <li>Docker, Jenkins, TravisCI, Git, SonarQube, New Relic, RabbitMQ.</li>
+</ul>
+
+<p><strong>Databases:</strong></p>
+<ul>
+  <li>Redis, MongoDB, MySQL, PostreSQL, Microsoft SQL Server, Oracle.</li>
+</ul>
+
+<p><strong>Tools</strong></p>
+<ul>
+  <li>Jira, Zephyr Scale (TM4J), Redmine, Bugzilla, Mantis, Scrum.</li>
+</ul>
+
+<p><strong>[Study In Progress]</strong></p>
+<ul>
+  <li>REST-Assured, Java.</li>
+</ul>
+
+<h2 id="licenses--certifications">Licenses &amp; Certifications</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Jul 2020</code>
+<strong>DevOps Essentials Professional Certificate</strong> (<a href="https://certiprof.com/">CerfiProf</a>)</p>
+<ul>
+  <li>Credential ID: 42649903</li>
+  <li>Expires at: July 2022</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Jun 2020</code>
+<strong>Scrum Foundation Professional Certificate</strong> (<a href="https://certiprof.com/">CerfiProf</a>)</p>
+<ul>
+  <li>Credential ID: CLVPFPQNPN-SSSSLKJH-XHRTXHXTYH</li>
+  <li>Expires at: Lifetime</li>
+</ul>
+
+<h2 id="awards">Awards</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2016</code>
+I helped <em>Qualinfo</em> to be certified as the first Brazilian company with Google Apps for Education partnership.</p>
+
+<h2 id="volunteering">Volunteering</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2019</code>
+<strong>Kotlin Trail, The Developers Conference [SÃ£o Paulo, Brazil]</strong></p>
+<ul>
+  <li>I was responsible for organizing the Kotlin trail event held at Anhembi Morumbi University.</li>
+</ul>
+
+<h2 id="updated-on">Updated on</h2>
+
+<p>June 19, 2021.</p>
+:ET
