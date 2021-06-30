@@ -10,7 +10,7 @@ Quality Assurance Engineer
 
 <div id="webaddress">
 <a href="lucasferreira@outlook.com.br">lucasferreira@outlook.com.br</a>
-| LinkedIn & Github @lflucasferreira
+| LinkedIn & Github @lflucasferreira | <a href="cv-english.pdf">Download CV [PDF]</a>
 </div>
 
 ## Experienced in
@@ -134,21 +134,21 @@ __Brazilian Portuguese__
 
 __English__
 
-`Nov 19th, 2020`
-	- *B2 Level* [Issued by [Voxy](https://voxy.com)]
+`Nov 19, 2020`
+B2 Level [Issued by [Voxy](https://voxy.com)]
 
-`Nov 11th, 2015`
-	- *TOEFL ITP {score: 530}* [Issued by [FulBright](https://fulbright.org.br)]
+`Nov 11, 2015`
+TOEFL ITP {score: 530} [Issued by [FulBright](https://fulbright.org.br)]
 
-`Apr 26th, 2013`
-	- *TOEFL ITP {score: 450}* [Issued by [FulBright](https://fulbright.org.br)]
+`Apr 26, 2013`
+TOEFL ITP {score: 450} [Issued by [FulBright](https://fulbright.org.br)]
 
 ### Basic
 
 __French__
 
-`Mar 3rd, 2021`
-	- *A1 Level {score: A+ 96%}* [Issued by [McGraw Hill Education](https://www.mheducation.com) via [Busuu](https://www.busuu.com)]
+`Mar 3, 2021`
+A1 Level {score: A+ 96%} [Issued by [McGraw Hill Education](https://www.mheducation.com) via [Busuu](https://www.busuu.com)]
 
 <!-- `Ongoing`
 	- *A2 Level* via [Busuu](https://www.busuu.com)
