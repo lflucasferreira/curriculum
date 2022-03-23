@@ -1,22 +1,47 @@
 ---
 layout: cv
-title: Lucas Ferreira's CV
+title: Lucas Ferreira
 ---
 
 <!-- https://elipapa.github.io/mycv -->
 
-# Lucas Ferreira
-Quality Assurance Engineer
+<!-- <img src="lucas.jpg" alt="Lucas Ferreira"> -->
+
+# Lucas Ferreira 🇧🇷
+
+<br>
+Quality Assurance Engineer [<a href="#licenses--certifications">SFPC, DEPC</a>]
 
 <div id="webaddress">
-<a href="lucasferreira@outlook.com.br">lucasferreira@outlook.com.br</a>
-| LinkedIn & Github @lflucasferreira | <a href="cv-english.pdf">Download CV [PDF]</a>
+<a href="mailto:lucasferreira@outlook.com.br" target="_blank">lucasferreira@outlook.com.br</a> | <a href="tel:+5581997226092">+55 81 99722-6092</a><br>
+<a href="https://www.linkedin.com/in/lflucasferreira" target="_blank">LinkedIn</a> & <a href="https://www.github.com/lflucasferreira" target="_blank">Github</a> @lflucasferreira | <a href="cv-english.pdf" target="_blank">Download my CV [PDF]</a>
 </div>
 
-## Experienced in
-Automated Software Testing for institutions like banks, universities (including schools), brewers, airports, and so on. For all of these sectors, I am specialized in pricing, financial, stock markets, courses, orders.
+## INTRO
 
-## About me
+If you are looking for someone who is experienced in testing software for financial sectors like international banks, schools, universities, brewers, airports, and RPA (Robot Process Automation) for data extraction & analysis, then you found them. I am pleased to have your attention and I would like to briefly introduce myself.
+
+Since 2013 I work for companies as a Quality Assurance, mostly known as Software Tester or simply Tester.
+
+<br>
+__Most of the time I work with these tools below:__
+
+★ Postman & Newman for API testing.
+
+★ Java & JavaScript for programming
+
+★ Docker, MongoDB & RabbitMQ for infrastructure
+
+★ Jira & Zephyr Scale for organizing test plan/cases
+
+★ New Relic & Sonarcloud for logging and quality metrics
+
+<!-- ## Experienced in
+Automated Software Testing for institutions like banks, universities (including schools), brewers, airports, and so on. For all of these sectors, I am specialized in pricing, financial, stock markets, courses, orders. -->
+
+
+
+<!-- ## About me
 
 Hello! I would like to briefly introduce myself.
 
@@ -24,115 +49,120 @@ I am 33 years old, single, no children, living in Brazil, and previously lived i
 
 In 2013, while studying and working abroad, I started my career as a software tester. Since then, I am passionate about testing, finding bugs, doing test plans, creating test cases, and most importantly increasing the company's product reliability.
 
-My background knowledge includes a vary largely of tools and techniques which I use on a daily basis.
+My background knowledge includes a vary largely of tools and techniques which I use on a daily basis. -->
 
-## Professional Experience
+## EXPERIENCE
 
-### Mid Level
+### [CI&T](https://www.ciandt.com)
 
-`2020 - Now`
-__QA Engineer, [CI&T](https://www.ciandt.com)__ [Brazil]
-- Since October 2020.
+`Jan/22 - Now`
+__Senior QA Engineer__ 🇧🇷
+- Background:
 
-### Junior Level
+`Oct/20 - Dec/21`
+__QA Engineer__ 🇧🇷
+- Background:
 
-`2019 - 2020`
-__Junior QA Engineer, [Stefanini](https://www.stefanini.com)__ [Brazil]
-- From May 2019 to September 2020.
+### [Stefanini](https://www.stefanini.com)
 
-`2017 - 2019`
-__Junior Test Analyst, [Qualinfo](https://www.qualinfo.com.br)__ [Brazil]
-- From September 2017 to April 2019.
+`May/19 - Sep/20`
+__Junior QA Engineer__ 🇧🇷
+- Background:
 
-### Internships
+### [Qualinfo](https://www.qualinfo.com.br)
 
-`2016 - 2017`
-__Intern Test Analyst, [Qualinfo](https://www.qualinfo.com.br)__ [Brazil]
-- From June 2016 to August 2017.
+`Sep/17 - Apr/19`
+__Junior Test Analyst__ 🇧🇷
+- Background:
 
-`2015 - 2016`
-__Intern Support Analyst, [Qualinfo](https://www.qualinfo.com.br)__ [Brazil]
-- From September 2015 to May 2016.
+`Jun/16 - Aug/17`
+__Intern Test Analyst__ 🇧🇷
+- Background:
 
-`2014 - 2014`
-__Intern Test Analyst, [SolutionInc](https://www.solutioninc.com)__ [Canada]
-- From May 2014 to September 2014.
+`Sep/15 - May/16`
+__Intern Support Analyst__ 🇧🇷
+- Background:
 
-## Education
+### [SolutionInc](https://www.solutioninc.com)
 
-`2013 - 2014`
-__Dalhousie University, Canada.__
+`May/14 - Sep/14`
+__Intern Test Analyst__ 🇨🇦
+- Background:
+
+## EDUCATION
+
+`Sep/13 - Dec/14`
+__Dalhousie University 🇨🇦__
 - *Computer Science* [3 terms]
-- From September 2013 to December 2014.
-- [Science without Borders - Federal Brazilian Program]
+- Science without Borders - Federal Brazilian Student Exchange
+<!-- - *English Communication & Academic Skills* [1 term] 84h -->
 
-`2011 - 2021`
-__UFRPE, Brazil__
+`Jul/11 - Jun/22`
+__UFRPE 🇧🇷__
 - *Information Systems* [10 terms]
-- From July 2011 to September 2021.
-- [Pending Undergraduate Thesis - due to pandemic]
+- __NOTE__: Pending Undergraduate thesis due to the pandemic
 
-`2008 - 2010`
-__SENAI-PE, Brazil__
-- *Computer Technician* (CISCO Systems) [4 terms]
-- From July 2008 to December 2010.
+`Jul/08 - Dec/10`
+__SENAI-PE 🇧🇷__
+- *Computer Technician* [4 terms]
+- CISCO CCNA
 
-## Developed Skills
+## SKILLS
 
 ### Soft Skills
 
-__Collaboration__: I am used to knowing how to work in a group.
+`Collaboration`
+I am used to knowing how to work in a group.
 
-__Flexibility__: I can adapt myself to the changes and be flexible when needed.
+`Flexibility`
+I can adapt myself to the changes and be flexible when needed.
 
-__Good Communication__: I listen carefully to details and talk clearly is crucial nowadays.
+`Good Communication`
+I listen carefully to details and talk clearly is crucial nowadays.
 
-__Team Leadership__: I try to engage and inspire groups to develop himself.
+`Team Leadership`
+I try to engage and inspire groups to develop himself.
 
-__Result Oriented__: My focus is on the final result in an efficient way.
+`Result Oriented`
+My focus is on the final result in an efficient way.
 
 ### Hard Skills
 
-__Programming Languages__
-- Ruby, JavaScript, Python.
+`Programming Languages`
+Ruby, JavaScript, Python, Java
 
-__Testing Frameworks__
-- Capybara, RSPec, Cucumber (Gherkin), Cypress.
+`Testing Frameworks`
+Capybara, RSPec, Cucumber (Gherkin), Cypress
 
-__API Testing__
-- Postman, Newman, HTTParty, HTTPie.
+`API Testing`
+Postman, Newman, HTTParty, HTTPie.
 
-__DevOps__
-- Docker, Jenkins, TravisCI, Git, SonarQube, New Relic, RabbitMQ.
+`Databases`
+Redis, MongoDB, MySQL, PostreSQL, Microsoft SQL Server, Oracle.
 
-__Databases__
-- Redis, MongoDB, MySQL, PostreSQL, Microsoft SQL Server, Oracle.
+`DevOps`
+Docker, Jenkins, TravisCI, Git, SonarQube, New Relic, RabbitMQ.
 
-__Tools__
-- Jira, Zephyr Scale (TM4J), Redmine, Bugzilla, Mantis, Scrum.
+`Tools`
+Jira, Zephyr Scale (TM4J), Redmine, Bugzilla, Mantis, Scrum.
 
-<!-- __[Study In Progress]__
-- REST-Assured, Java. -->
+## CERTIFICATIONS
 
-## Licenses & Certifications
+### [CerfiProf](https://certiprof.com)
 
 `Jul 2020`
-__DevOps Essentials Professional Certificate__ ([CerfiProf](https://certiprof.com))
+__DevOps Essentials Professional Certificate__
 - Credential ID: 42649903 valid until July 2022.
 
 `Jun 2020`
-__Scrum Foundation Professional Certificate__ ([CerfiProf](https://certiprof.com))
+__Scrum Foundation Professional Certificate__
 - Credential ID: CLVPFPQNPN-SSSSLKJH-XHRTXHXTYH valid for lifetime.
 
-## Languages
+## LANGUAGES
 
-### Native
+### Advanced
 
-__Brazilian Portuguese__
-
-### Advanced / Fluent
-
-__English__
+__English__ 🇺🇸
 
 `Nov 19, 2020`
 B2 Level [Issued by [Voxy](https://voxy.com)]
@@ -145,27 +175,22 @@ TOEFL ITP {score: 450} [Issued by [FulBright](https://fulbright.org.br)]
 
 ### Basic
 
-__French__
+__French__ 🇫🇷
 
 `Mar 3, 2021`
 A1 Level {score: A+ 96%} [Issued by [McGraw Hill Education](https://www.mheducation.com) via [Busuu](https://www.busuu.com)]
 
-<!-- `Ongoing`
-	- *A2 Level* via [Busuu](https://www.busuu.com)
+## AWARDS
 
-__Spanish__
+`Aug 2021`
+__CI&T - Client Satisfaction__
+- My Squad team received this award after managing to prioritize SRE tasks and became reference in managing alerts. Besides that, the squad team is recognized for automated deployment with an increase of quality control by the test pyramid implementation. Finally, new releases were made without any problem, that is why the client was fully satisfied.
 
-`Ongoing`
-	- *A1 Level* via [Busuu](https://www.busuu.com)
+`Jul 2021`
+__CI&T - Mission Accomplished__
+- My Squad team received this award after activating the Global BEES in the USA. It was successfully released and in short time. Because of that, the new API contract could be up and running with multiple language support.
 
-__Italian__
-
-`Ongoing`
-	- *A1 Level* via [Busuu](https://www.busuu.com) -->
-
-## Awards
-
-`2021`
+`Feb 2021`
 __CI&T - Team Highlight__
 - My Squad team received this award after satisfying our worldwide client expectation.
 
@@ -177,10 +202,10 @@ __MV Sistemas - MV Challenge__
 __Qualinfo - Google Apps for Education__
 - I helped *Qualinfo* to be certified as the first Brazilian company with Google Apps for Education partnership.
 
-## Volunteering
+## VOLUNTEERING
 
 `Jul 2018`
-__Kotlin Trail, The Developers Conference [São Paulo, Brazil]__
+__Kotlin Trail, The Developers Conference__, [São Paulo 🇧🇷]
 - I was responsible for organizing the Kotlin trail event held at Anhembi Morumbi University.
 
 <!-- ## Goals
