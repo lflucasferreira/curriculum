@@ -30,7 +30,7 @@ export const RESUME_DATA = {
   summary:
     "With a decade of experience as a QA Engineer, I currently hold the position of Senior QA Engineer at Questrade. My expertise encompasses testing web and mobile applications, API testing, and test automation. I have gained valuable experience across diverse industries, including mainly finance, e-commerce, and telecommunications. Driven by a passion for technology, I am continuously seeking opportunities to expand my knowledge and contribute to the advancement of software quality.",
   avatarUrl: "https://avatars.githubusercontent.com/lflucasferreira",
-  // personalWebsiteUrl: "https://www.lucasferreira.net",
+  personalWebsiteUrl: "",
   contact: {
     email: "lucasferreira@outlook.com.br",
     tel: "+5581997226092",
